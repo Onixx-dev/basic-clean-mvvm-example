@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ef-testwork</string>
+    <string name="title_home">Home</string>
+    <string name="title_home_1">Поиск дешевых</string>
+    <string name="title_home_2">Авиабилетов</string>
+    <string name="title_home_3">Музыкально отлететь</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
